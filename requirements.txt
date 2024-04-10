@@ -1,0 +1,16 @@
+numpy
+pandas
+flask
+pathlib
+dataclasses
+mysql-connector-python
+pymysql
+python-dotenv
+matplotlib
+seaborn
+catboost
+xgboost
+dataclasses
+mlflow
+ipykernel
+# -e .
